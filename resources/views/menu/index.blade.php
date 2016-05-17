@@ -45,7 +45,7 @@
 							<div class="row">
 								<div class="col-sm-8">
 									<div class="small-showcase-box">
-										<img src="{{asset('img/desk.svg')}}"/>
+										<img src="{{asset('img/desk.svg')}}" style="width: 70px;margin-bottom: 20px;"/>
 										<h4 class="heading">Celfish Bombshell, <span>up to 2.5 hours</span></h4>
 										<p class="description">Ultra glam up to 90% full, this is fullest.</p>
 										<p class="description">Master Artist $225</p>
@@ -56,7 +56,7 @@
 
 								<div class="col-sm-8">
 									<div class="small-showcase-box">
-										<img src="{{asset('img/desk.svg')}}"/>
+										<img src="{{asset('img/desk.svg')}}" style="width: 70px;margin-bottom: 20px;"/>
 										<h4 class="heading">Celfish Lover, <span>up to 2 hours</span></h4>
 										<p class="description">Luscious lashes up to 70% full.</p>
 										<p class="description">Master Artist $175</p>
@@ -67,7 +67,7 @@
 
 								<div class="col-sm-8">
 									<div class="small-showcase-box">
-										<img src="{{asset('img/desk.svg')}}"/>
+										<img src="{{asset('img/desk.svg')}}" style="width: 70px;margin-bottom: 20px;"/>
 										<h4 class="heading">Celfish Cutie, <span>up to 1.5 hours</span></h4>
 										<p class="description">Up to 50% full, naturally enhanced.</p>
 										<p class="description">Master Artist $---</p>
@@ -94,7 +94,7 @@
 							<div class="row">
 								<div class="col-sm-8">
 									<div class="small-showcase-box">
-										<img src="{{asset('img/desk.svg')}}"/>
+										<img src="{{asset('img/desk.svg')}}" style="width: 70px;margin-bottom: 20px;"/>
 										<h4 class="heading">Bombshell Fill</h4>
 										<p class="description">Master Artist $95</p>
 										<p class="description">Apprentice $75</p>
@@ -104,7 +104,7 @@
 
 								<div class="col-sm-8">
 									<div class="small-showcase-box">
-										<img src="{{asset('img/desk.svg')}}"/>
+										<img src="{{asset('img/desk.svg')}}" style="width: 70px;margin-bottom: 20px;"/>
 										<h4 class="heading">Celfish Lover Fill</h4>
 										<p class="description">Master Artist $99</p>
 										<p class="description">Apprentice $75</p>
@@ -114,7 +114,7 @@
 
 								<div class="col-sm-8">
 									<div class="small-showcase-box">
-										<img src="{{asset('img/desk.svg')}}"/>
+										<img src="{{asset('img/desk.svg')}}" style="width: 70px;margin-bottom: 20px;"/>
 										<h4 class="heading">Celfish Cutie</h4>
 										<p class="description">Master Artist $59</p>
 										<p class="description">Apprentice $49</p>
@@ -136,7 +136,7 @@
 							<div class="row">
 								<div class="col-sm-8">
 									<div class="small-showcase-box">
-										<img src="{{asset('img/desk.svg')}}"/>
+										<img src="{{asset('img/desk.svg')}}" style="width: 70px;margin-bottom: 20px;"/>
 										<h4 class="heading">Celfish Bombshell, <span>up to 2.5 hours</span></h4>
 										<p class="description">Ultra glam up to 90% full, this is fullest.</p>
 										<p class="description">Master Artist $225</p>
@@ -147,7 +147,7 @@
 
 								<div class="col-sm-8">
 									<div class="small-showcase-box">
-										<img src="{{asset('img/desk.svg')}}"/>
+										<img src="{{asset('img/desk.svg')}}" style="width: 70px;margin-bottom: 20px;"/>
 										<h4 class="heading">Celfish Lover, <span>up to 2 hours</span></h4>
 										<p class="description">Luscious lashes up to 70% full.</p>
 										<p class="description">Master Artist $175</p>
@@ -158,7 +158,7 @@
 
 								<div class="col-sm-8">
 									<div class="small-showcase-box">
-										<img src="{{asset('img/desk.svg')}}"/>
+										<img src="{{asset('img/desk.svg')}}" style="width: 70px;margin-bottom: 20px;"/>
 										<h4 class="heading">Celfish Cutie, <span>up to 1.5 hours</span></h4>
 										<p class="description">Up to 50% full, naturally enhanced.</p>
 										<p class="description">Master Artist $---</p>
@@ -185,7 +185,7 @@
 							<div class="row">
 								<div class="col-sm-8">
 									<div class="small-showcase-box">
-										<img src="{{asset('img/desk.svg')}}"/>
+										<img src="{{asset('img/desk.svg')}}" style="width: 70px;margin-bottom: 20px;"/>
 										<h4 class="heading">Bombshell Fill</h4>
 										<p class="description">Master Artist $95</p>
 										<p class="description">Apprentice $75</p>
@@ -195,7 +195,7 @@
 
 								<div class="col-sm-8">
 									<div class="small-showcase-box">
-										<img src="{{asset('img/desk.svg')}}"/>
+										<img src="{{asset('img/desk.svg')}}" style="width: 70px;margin-bottom: 20px;"/>
 										<h4 class="heading">Celfish Lover Fill</h4>
 										<p class="description">Master Artist $99</p>
 										<p class="description">Apprentice $75</p>
@@ -205,7 +205,7 @@
 
 								<div class="col-sm-8">
 									<div class="small-showcase-box">
-										<img src="{{asset('img/desk.svg')}}"/>
+										<img src="{{asset('img/desk.svg')}}" style="width: 70px;margin-bottom: 20px;"/>
 										<h4 class="heading">Celfish Cutie</h4>
 										<p class="description">Master Artist $59</p>
 										<p class="description">Apprentice $49</p>
@@ -227,7 +227,7 @@
 							<div class="row">
 								<div class="col-sm-8">
 									<div class="small-showcase-box">
-										<img src="{{asset('img/desk.svg')}}"/>
+										<img src="{{asset('img/desk.svg')}}" style="width: 70px;margin-bottom: 20px;"/>
 										<h4 class="heading">Celfish Bombshell, <span>up to 2.5 hours</span></h4>
 										<p class="description">Ultra glam up to 90% full, this is fullest.</p>
 										<p class="description">Master Artist $225</p>
@@ -238,7 +238,7 @@
 
 								<div class="col-sm-8">
 									<div class="small-showcase-box">
-										<img src="{{asset('img/desk.svg')}}"/>
+										<img src="{{asset('img/desk.svg')}}" style="width: 70px;margin-bottom: 20px;"/>
 										<h4 class="heading">Celfish Lover, <span>up to 2 hours</span></h4>
 										<p class="description">Luscious lashes up to 70% full.</p>
 										<p class="description">Master Artist $175</p>
@@ -249,7 +249,7 @@
 
 								<div class="col-sm-8">
 									<div class="small-showcase-box">
-										<img src="{{asset('img/desk.svg')}}"/>
+										<img src="{{asset('img/desk.svg')}}" style="width: 70px;margin-bottom: 20px;"/>
 										<h4 class="heading">Celfish Cutie, <span>up to 1.5 hours</span></h4>
 										<p class="description">Up to 50% full, naturally enhanced.</p>
 										<p class="description">Master Artist $---</p>
@@ -276,7 +276,7 @@
 							<div class="row">
 								<div class="col-sm-8">
 									<div class="small-showcase-box">
-										<img src="{{asset('img/desk.svg')}}"/>
+										<img src="{{asset('img/desk.svg')}}" style="width: 70px;margin-bottom: 20px;"/>
 										<h4 class="heading">Bombshell Fill</h4>
 										<p class="description">Master Artist $95</p>
 										<p class="description">Apprentice $75</p>
@@ -286,7 +286,7 @@
 
 								<div class="col-sm-8">
 									<div class="small-showcase-box">
-										<img src="{{asset('img/desk.svg')}}"/>
+										<img src="{{asset('img/desk.svg')}}" style="width: 70px;margin-bottom: 20px;"/>
 										<h4 class="heading">Celfish Lover Fill</h4>
 										<p class="description">Master Artist $99</p>
 										<p class="description">Apprentice $75</p>
@@ -296,7 +296,7 @@
 
 								<div class="col-sm-8">
 									<div class="small-showcase-box">
-										<img src="{{asset('img/desk.svg')}}"/>
+										<img src="{{asset('img/desk.svg')}}" style="width: 70px;margin-bottom: 20px;"/>
 										<h4 class="heading">Celfish Cutie</h4>
 										<p class="description">Master Artist $59</p>
 										<p class="description">Apprentice $49</p>
