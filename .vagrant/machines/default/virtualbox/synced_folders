@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/celfiethesalon":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/celfiethesalon","hostpath":"/Users/andreasbeasley/sites/celfieTheSalon","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/andreasbeasley/sites/celfieTheSalon","disabled":false,"__vagrantfile":true}}}
